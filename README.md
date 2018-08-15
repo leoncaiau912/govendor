@@ -1,3 +1,6 @@
+#Cannot use as the codes points to kardianos, have to replace kardianos to your own account"
+
+
 # The Vendor Tool for Go
 `go get -u github.com/kardianos/govendor`
 
